@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
     git commit commits the files in staging area into repository with a message. Also you can use git diff to see differences between working directory and staging area and git diff --staged to see differences between staged area and repository.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    Branches are labels of multiple versions of file. It would be helpful if you want to share to your friends your game and work to an experimental feature at the same time.
+    Commands: git branch: list branches, git branch name_branch: give name_branch to branch.
+
