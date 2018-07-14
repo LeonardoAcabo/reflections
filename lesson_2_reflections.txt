@@ -14,3 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
     Diagrams show the commits with branches and reachability (parent of commits).
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+    git merge branch1 branch2 combines files of both branches and we represent it in the diagram because there are some other commits which can't be reachable.
+
