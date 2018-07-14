@@ -11,3 +11,6 @@ What are some situations when branches would be helpful in keeping your history 
     Branches are labels of multiple versions of file. It would be helpful if you want to share to your friends your game and work to an experimental feature at the same time.
     Commands: git branch: list branches, git branch name_branch: give name_branch to branch.
 
+How do the diagrams help you visualize the branch structure?
+    Diagrams show the commits with branches and reachability (parent of commits).
+
