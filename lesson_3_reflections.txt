@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
   Clone copy all the files in repository.
   Branch give name of a commit.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  Avoiding merge conflicts.
+
